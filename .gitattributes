@@ -1,4 +1,4 @@
 *.* linguist-detectable=false
-*.dart linguist-detectable=true
-*.flutter linguist-detectable=true
+*.dart.flutter linguist-detectable=true
+
 
