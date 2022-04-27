@@ -2,6 +2,16 @@
 
 A new Flutter project.
 
+
+
+# OutPuts : 
+
+
+![1](https://user-images.githubusercontent.com/97453465/165604705-90caf12d-f7f0-4c84-9a74-613c10526308.png) 
+
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
